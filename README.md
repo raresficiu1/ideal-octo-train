@@ -40,7 +40,7 @@ Compared the total columns, last row value with the actual data in the table to 
 ![image](https://github.com/user-attachments/assets/48e342b1-8672-4c3c-b830-5bbbee04c321)
 
 #### How much fuel was ordered for same-day delivery?
-Similarly added all the columns and then joined with a "notes".
+Similarly added all the columns and then joined with a "notes" dataframe.
 ![image](https://github.com/user-attachments/assets/e3081908-715e-41b8-ab5f-e65bfa6b4971)
 
 #### How much fuel was ordered in 2012? / USA Client in 2024
