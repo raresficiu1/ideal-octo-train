@@ -9,7 +9,7 @@ This solution has 2 parts. First is the main notebook in which I processed the d
 Can be found under **/notebooks/yagro_interview.ipynb**
 
 ### First I read the data
-Notice it is in csv format instead of xlsx, this was because xlsx is not natively supported by spark. Saved it in CSV format using Excel and copied it into the docker container.
+Notice it is in csv format instead of xlsx, this was because xlsx is not natively supported by spark. Saved it in CSV format using Excel and then copied it into the WSL.
 
 If I was running locally I would've installed the required packages and loaded it from xlsx format directly. ('com.crealytics.spark.excel')
 
