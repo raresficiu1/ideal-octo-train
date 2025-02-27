@@ -2,7 +2,7 @@
 
 This solution has 2 parts. First is the main notebook in which I processed the data to get to the required solution, while the second part is the docker compose to run Pyspark, Jupyter Notebook, MongoDB and Airflow together with all the code to trigger a spark submit command and to load the data to MongoDB.
 
-**Disclaimer: The docker compose attached has been done by me but for a similar challenge around Dec 2024. This time, however, I have sorted out a connectivity bug between the containers.**
+**Disclaimer: The docker compose attached is entirely my work but it was put together for a similar challenge around Dec 2024. This time, however, I have sorted out a connectivity bug between the containers.**
 
 ## Main Notebook
 
